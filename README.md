@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi there👋,
+my name is Isaac Boateng and i am a software developer. i love to solve problems in real life so i wanted to turn this passion into coding and solve most daily problems using technology.
 
 <!--
 **oppong122/oppong122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
